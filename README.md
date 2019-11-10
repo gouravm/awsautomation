@@ -1,2 +1,2 @@
 # awsautomation
-Repository for aws automation and stuff
+Repository for aws automation stuff.
